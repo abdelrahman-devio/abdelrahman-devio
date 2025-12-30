@@ -33,7 +33,7 @@ The course strengthened my foundation in:
 
 ---
 
-## 🧭 Current Focus (2025)
+## 🧭 Current Focus (2026)
 - Growing as a Python backend developer
 - Building web systems using Flask
 - Strengthening frontend skills to support backend applications

@@ -1,91 +1,70 @@
 <div align="center">
 
-# 👋 Abdelrahman Ahmed  
-### Python Developer • Web & Automation • Flask Backend
+# 👋 I'm Abdelrahman Ahmed
+### **Python Developer • Web & Automation • Flask Backend**
 
-CS50x Graduate | Learning, Building, and Improving Continuously
+🚀 **CS50x Graduate** | Learning, Building, and Improving Continuously
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdelrahman-devio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/abdelrahman-devio)
 
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-I’ve been learning programming for nearly two years through self-study and hands-on practice.
-From the beginning, I focused on **thinking like a programmer** rather than memorizing syntax.
+I’ve been learning programming for nearly **two years** through dedicated self-study and hands-on practice. My philosophy is built on **thinking like a programmer** rather than just memorizing syntax.
 
-I’m comfortable turning ideas into working applications.
-When I encounter unfamiliar technologies or syntax, I learn them during implementation,
-using AI tools as learning accelerators while maintaining a clear understanding of the code I write.
-
-I primarily work on Linux and care deeply about clean, maintainable, and well-structured code.
+* 🎯 **Problem Solver:** I’m comfortable turning complex ideas into functional applications.
+* ⚡ **Agile Learner:** I adopt new technologies during implementation, using AI as a catalyst while maintaining a deep understanding of the code.
+* 🐧 **Linux Enthusiast:** I primarily work on Linux and prioritize clean, maintainable, and "Pythonic" code.
 
 ---
 
 ## 🎓 Education
-**CS50x – Introduction to Computer Science**  
-Completed at **:contentReference[oaicite:1]{index=1}**
+### **CS50x – Introduction to Computer Science**
+*Harvard University (via edX)*
 
-The course strengthened my foundation in:
-- Programming fundamentals and problem-solving
-- Algorithms and data structures
-- Web development basics
-- Software design and code organization
-
----
-
-## 🧭 Current Focus (2026)
-- Growing as a Python backend developer
-- Building web systems using Flask
-- Strengthening frontend skills to support backend applications
-- Using AI as a development tool, not a replacement for understanding
+This journey solidified my foundation in:
+- 🧠 **Algorithms & Data Structures**
+- 💾 **Low-level Memory Management**
+- 🕸️ **Web Development Foundations**
+- 🏛️ **Software Design Patterns**
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🐍 Python & Backend
-- Python
-- Flask
-- RESTful APIs
-- SQLite (currently), with future transition to MySQL
-- API integration using requests
+| **Category** | **Technologies** |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------------|
+| **🐍 Python & Backend** | `Python` `Flask` `RESTful APIs` `SQLite3` `MySQL` `Requests`                                                           |
+| **🌐 Frontend** | `HTML5` `CSS3` `JavaScript (ES6+)` `Bootstrap` `React (Learning)`                                                      |
+| **📊 Data & Automation** | `Pandas` `NumPy` `Matplotlib` `Seaborn` `BeautifulSoup` `Selenium`                                                     |
+| **🤖 AI Integration** | `OpenAI API` `Google Generative AI` `Prompt Engineering`                                                               |
+| **🧪 Engineering** | `OOP` `Git & GitHub` `Pytest` `Pylint` `GitHub Actions` `Linux Workflow`                                               |
 
-### 🌐 Frontend (Supportive)
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- React (progressive learning)
+---
 
-### 📊 Data & Automation
-- pandas, numpy
-- matplotlib, seaborn
-- Web scraping with BeautifulSoup
-- Automation using Selenium
-
-### 🤖 AI Integration
-- google.generativeai
-- openai
-- Exploring model training concepts (pycaret, unsloth)
+## 🧭 Roadmap 2026
+- [ ] **Backend Mastery:** Deep dive into Flask and transitioning to **MySQL** for scalable apps.
+- [ ] **Full-Stack Evolution:** Strengthening **React** skills to build interactive UIs.
+- [ ] **Cross-Platform:** Deploying web apps as Desktop/Mobile tools via **PyWebView** & **Capacitor**.
+- [ ] **AI-Driven Apps:** Building meaningful projects with LLM integrations.
 
 ---
 
 ## 🧪 Engineering Practices
-- Object-Oriented Programming (OOP)
-- Clean, Pythonic code
-- Code quality with pylint
-- Unit testing using pytest
-- Git & GitHub for version control
-- GitHub Actions for automation (Linux-based workflow)
+* **Quality First:** I use `pylint` for code quality and `pytest` for unit testing.
+* **Version Control:** Professional workflow using **Git & GitHub**.
+* **Deployment:** Experience in packaging Python apps using `PyInstaller`.
 
 ---
 
-## 🚀 Goal
-To continuously grow as a software developer,
-build robust Python-based systems,
-and gradually evolve toward full-stack web development with meaningful AI integration.
+## 🚀 The Goal
+To continuously grow as a software engineer, building robust systems that solve real-world problems through clean code and meaningful AI integration.
 
 ---
 
-## 📬 Contact
-Always open to learning, discussion, and collaboration.
+## 📬 Contact Me
+- **LinkedIn:** [Abdelrahman Ahmed](https://www.linkedin.com/in/abdelrahman-devio/)
+- **Email:** abdelrahman.creative.dev@gmail.com
